@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "allowJs": true,
+        "outDir": "./ts_build",
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
